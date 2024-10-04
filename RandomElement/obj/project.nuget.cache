@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1NEouPVK7zyx900+FLrhHcRijj/QXQ8yxSWE3Ar9HqKj95XBJOiOOAZZhVyCreB2spbu1XONq9/jXBUNrhG5w==",
+  "success": true,
+  "projectFilePath": "/Users/carlyn/Projects/Week6StringAndArrays/RandomElement/RandomElement.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlyn/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
